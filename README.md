@@ -1,5 +1,3 @@
-# news-feed-recommender
-Personalized news feed app that recommends articles using collaborative filtering and NLP with Transformers. Built with Flask, React, AWS Lambda, and Plotly Dash.
 # News Feed Recommender
 
 A personalized news feed system that mimics Meta’s News Feed behavior. Combines collaborative filtering and NLP embeddings to recommend content based on user preferences.
